@@ -1,0 +1,6 @@
+Apple 120 3 360
+Potato 100 12 1200
+
+Mango 100 20 2000
+
+Pineapple 50 2 100
